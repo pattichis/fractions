@@ -26,6 +26,8 @@ Remove students names and the name of the School.
 * Standard for rates: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 
+[Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
+
 ## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
