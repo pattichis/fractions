@@ -17,17 +17,20 @@ Add rubric to assess what students were doing. This was on one of the slides.
 
 Rubric or requirements from TODOS presentation.
 
-Remove students names and the name of the School.
+Remove students' names and the name of the School.
 
 - GraphSpeeds: post projects only.
 - GraphSpeeds2: Make this the main for the students. Post projects also.
 
 * Standard for fractions: CCSS.Math.Content.6.NS.A.1
 * Standard for rates: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
+  
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 
 [Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
 
+* Post action-research project for TODOS
+  
 ## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
