@@ -11,6 +11,20 @@ Find existing videos.
 ## Schedule
 Provide the Math standards and what is covered each day:
 Convert everything to PDF for preview.
+Create Spanish and English versions.
+
+Add rubric to assess what students were doing. This was on one of the slides.
+
+Rubric or requirements from TODOS presentation.
+
+Remove students names and the name of the School.
+
+- GraphSpeeds: post projects only.
+- GraphSpeeds2: Make this the main for the students. Post projects also.
+
+* Standard for fractions: CCSS.Math.Content.6.NS.A.1
+* Standard for rates: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
+[Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 
 ## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 
