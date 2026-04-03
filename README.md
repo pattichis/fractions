@@ -18,6 +18,6 @@ The lesson introduces Python programming using variables, strings, linear equati
 ## [Lesson 2: Representing fractions using pictures](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2a.ipynb)
 The lesson provides a simple interface for visualizing fractions using pictures.
 
-## [Lesson 3: Video story-telling for understanding operations with fractions]()
+## [Lesson 3: Video story-telling for understanding operations with fractions](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb)
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
