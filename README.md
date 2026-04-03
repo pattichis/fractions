@@ -1,6 +1,7 @@
 # fractions
 
-## Lesson 1: Exploring fractions using Python
+## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
+
 The lesson introduces Python programming using variables, strings, linear equations, and fractions.
 * Introduction to variables
 * Strings
@@ -9,5 +10,3 @@ The lesson introduces Python programming using variables, strings, linear equati
 * Object-oriented programming using fractions
 * Complex fraction operations
   
-[Fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
-
