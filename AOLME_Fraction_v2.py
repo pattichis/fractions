@@ -761,7 +761,7 @@ def check_format(input):
     '''
     Function to check that student input is in string format, will correct for them in safe mode.
     '''	
-    if type(input) != np.string_:
+    if type(input) != np.bytes_:
         #print type(input)
         if SAFE:
 	        #print "Input was not in string format, be sure to use quotes, correcting for you..."
