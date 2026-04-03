@@ -1,5 +1,6 @@
 # fractions
 The repository includes interactive materials for exploring fraction operations in Python.
+The code allows middle-school children (grades 6-8) to visualize fractions using pictures and describe operations on videos using fractions.
 
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation
 
