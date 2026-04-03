@@ -5,6 +5,13 @@ The children create digital video storytelling to explain operations with fracti
 
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation
 
+## Provide a tutorial on how to use Google Colab
+Find existing videos.
+
+## Schedule
+Provide the Math standards and what is covered each day:
+Convert everything to PDF for preview.
+
 ## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
@@ -21,3 +28,6 @@ The lesson provides a simple interface for visualizing fractions using pictures.
 ## [Lesson 3: Video story-telling for understanding operations with fractions](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb)
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
+
+## Exemplars
+This space will be used for deidentified student projects.
