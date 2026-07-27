@@ -4,8 +4,9 @@ The code allows middle school children (grades 6-8) to visualize fractions throu
 The children create digital video storytelling to explain operations with fractions. It includes video animation to 
 demonstrate multiplying fractions.
 
-
-## Schedule
+[Lesson 0: PDF](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pdf)
+[PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%200-final-product.pptx)
+# Schedule
 ## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
