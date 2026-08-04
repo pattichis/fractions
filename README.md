@@ -32,8 +32,7 @@ The lesson provides a simple interface for visualizing fractions using pictures.
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
 
-## Exemplars
-This space will be used for deidentified student projects.
+## [Examples of students video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 
 ## Acknowledgement
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation
