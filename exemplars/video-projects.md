@@ -1,7 +1,5 @@
 # Try
 
-[Student project 1](https://github.com/pattichis/fractions/blob/main/exemplars/I_voice_added.mp4)
-
 # Student video projects
 
 For the following links, make sure to turn on the audio. 
