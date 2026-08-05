@@ -6,7 +6,12 @@ You can enable audio by clicking on the speaker icon in the lower-right part of 
 The audio was AI-generated to protect the identity of the children involved.
 Also, all identifying information has been removed from the links.
 
-[Student project 1](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
+[Group Project 1 (Examplar)](https://github.com/user-attachments/assets/b2219f77-91ed-4b0d-93eb-a676a50f14ef)
 
-[Student project 2](https://github.com/user-attachments/assets/b2219f77-91ed-4b0d-93eb-a676a50f14ef)
+[Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
+
+[Group Project 3 (Exemplar)](https://github.com/user-attachments/assets/6e9f62e0-14dd-4004-8fb9-7cc608d2b31a)
+
+
+
 
