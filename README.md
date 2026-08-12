@@ -1,4 +1,11 @@
-# fractions
+# Division of fractions
+This material supports the division and multiplication of fractions using Python.
+Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of coding in Python, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, the students can access all of the material in their browser without any additional support.
+
+??? Pick up a video example here.
+
+RACE assignment: The material teaches proportions, distance, rate, and time using Python.
+
 The repository includes interactive materials for exploring fraction operations in Python.
 The code allows middle school children (grades 6-8) to visualize fractions through pictures and videos.
 The children create digital video storytelling to explain operations with fractions. It includes video animation to 
@@ -40,7 +47,7 @@ The above link provides examples of students' videos with voices replaced by AI 
 * Add rubric to assess what students were doing. This was on one of the slides.
 * Rubric or requirements from TODOS presentation.
 * Standard for fractions: CCSS.Math.Content.6.NS.A.1
-* Standard for rates: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
+* RACE LESSONS STANDARDS: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
   
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 [Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
