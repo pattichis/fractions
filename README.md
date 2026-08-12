@@ -4,7 +4,8 @@ The code allows middle school children (grades 6-8) to visualize fractions throu
 The children create digital video storytelling to explain operations with fractions. It includes video animation to 
 demonstrate multiplying fractions.
   
-## [Lesson 1: Computing rates using coding (PDF)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf) [PowerPoint download](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx)
+## Lesson 1: Computing rates using coding
+* Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
 * How can coding help?
 * Coding team rules.
 * Introduction to variables.
