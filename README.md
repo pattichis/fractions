@@ -33,33 +33,19 @@ The lesson provides a simple interface for visualizing fractions using pictures.
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
 
-## [Examples of students video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
-
-## Acknowledgement
-Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation
+## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
+The above link provides examples of students' videos with voices replaced by AI to protect their identities.
 
 ## ISSUES
-Provide the Math standards and what is covered each day:
-Convert everything to PDF for preview.
-Create Spanish and English versions.
-
-Add rubric to assess what students were doing. This was on one of the slides.
-
-Rubric or requirements from TODOS presentation.
-
-Remove students' names and the name of the School.
-
-- GraphSpeeds: post projects only.
-- GraphSpeeds2: Make this the main for the students. Post projects also.
-
+* Add rubric to assess what students were doing. This was on one of the slides.
+* Rubric or requirements from TODOS presentation.
 * Standard for fractions: CCSS.Math.Content.6.NS.A.1
 * Standard for rates: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
   
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
-
 [Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
 
-* Post action-research project for TODOS
-* Provide a tutorial on how to use Google Colab. Find existing videos.
+# Acknowledgement
+Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
   
