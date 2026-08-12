@@ -2,14 +2,12 @@
 This material supports the division and multiplication of fractions using Python.
 Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of coding in Python, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, the students can access all of the material in their browser without any additional support.
 
-??? Pick up a video example here.
+We provide an example video here. Note that the students were given extra time to add voice-over to their videos.
+Our code did not provide support for voice-over. Also, students' voices were replaced with AI-generated voices to protect their identities.
+More project exemplars are available here (?).
+VIDEO PLACED HERE.
 
 RACE assignment: The material teaches proportions, distance, rate, and time using Python.
-
-The repository includes interactive materials for exploring fraction operations in Python.
-The code allows middle school children (grades 6-8) to visualize fractions through pictures and videos.
-The children create digital video storytelling to explain operations with fractions. It includes video animation to 
-demonstrate multiplying fractions.
   
 ## Lesson 1: Computing rates using coding
 * Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
