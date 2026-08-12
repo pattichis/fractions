@@ -5,7 +5,7 @@ The children create digital video storytelling to explain operations with fracti
 demonstrate multiplying fractions.
   
 ## Lesson 1: Computing rates using coding
-* Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
+* Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
 * How can coding help?
 * Coding team rules.
 * Introduction to variables.
@@ -16,9 +16,9 @@ demonstrate multiplying fractions.
 * Working with lists in Python.
 
 # Schedule
-## [Lesson 1: Exploring fractions using Python](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
-
+## Lesson 1: Exploring fractions using Python
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
+* [Coding: ???](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 * Introduction to variables
 * Strings
 * Variables for linear equations
