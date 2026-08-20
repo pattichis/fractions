@@ -38,6 +38,8 @@ The lesson provides a simple interface for visualizing fractions using pictures.
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
 
+## Lesson 4: Extension
+
 ## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
 
