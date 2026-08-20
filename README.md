@@ -7,7 +7,9 @@ Using Python, students visualize repeating groups of fractions and create a digi
 We provide an example video here. Note that the students were given extra time to add voice-over to their videos.
 Our code did not provide support for voice-over. Also, students' voices were replaced with AI-generated voices to protect their identities.
 More project exemplars are available here (?).
-VIDEO PLACED HERE.
+???
+
+[Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
 
 RACE assignment: The material teaches proportions, distance, rate, and time using Python.
   
