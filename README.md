@@ -50,6 +50,12 @@ The above link provides examples of students' videos with voices replaced by AI 
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 [Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
 
+Keywords to use for Teachers Pay Teachers:
+
+1) Teaching Division of Fractions with Python
+
+2) Teaching Proportions, Distance, Rate, and Time with Python.
+   
 # Acknowledgement
 Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
