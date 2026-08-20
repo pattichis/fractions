@@ -1,4 +1,6 @@
 # Division of fractions
+The lessons below address the following standards for fractions: CCSS.Math.Content.6.NS.A.1.
+
 This material supports the division and multiplication of fractions using Python.
 Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of coding in Python, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, the students can access all of the material in their browser without any additional support.
 
@@ -44,7 +46,7 @@ It includes a video module that visually demonstrates fraction multiplication.
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
 
 ## ISSUES
-* Standard for fractions: CCSS.Math.Content.6.NS.A.1
+* 
 * RACE LESSONS STANDARDS: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
   
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
