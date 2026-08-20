@@ -44,8 +44,6 @@ It includes a video module that visually demonstrates fraction multiplication.
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
 
 ## ISSUES
-* Add rubric to assess what students were doing. This was on one of the slides.
-* Rubric or requirements from TODOS presentation.
 * Standard for fractions: CCSS.Math.Content.6.NS.A.1
 * RACE LESSONS STANDARDS: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
   
