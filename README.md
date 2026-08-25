@@ -18,6 +18,8 @@ Day 1
 
 Day 2
 
+[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
 
 Day 3
 
@@ -29,25 +31,14 @@ Day 4
 [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
 
-## Lesson 1: Computing rates using coding
-* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pptx), 
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pdf).<br>  
-* How can coding help?
-* Coding team rules.
-* Introduction to variables.
-* Strings.
-* Video interpretation.
-* Computing rates using the DRT triangle.
-* Computing rates using coding.
-* Working with lists in Python.
 
 # Schedule
 ## Lesson 1: Exploring fractions using Python
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
-* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
-* [Coding: ???](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
-* Introduction to variables
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pptx), 
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pdf).<br>
+* [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
+* Introduction to variables and comments
 * Strings
 * Variables for linear equations
 * Concatenating strings = combining strings together
