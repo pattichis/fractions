@@ -50,11 +50,13 @@ It includes a video module that visually demonstrates fraction multiplication.
 ## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
 
+# Rubric for projects
+[Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
+
 ## ISSUES
 * 
 * RACE LESSONS STANDARDS: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
   
-[Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
 [Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
 
 Keywords to use for Teachers Pay Teachers:
@@ -63,7 +65,24 @@ Keywords to use for Teachers Pay Teachers:
 
 2) Teaching Proportions, Distance, Rate, and Time with Python.
    
-# Acknowledgement
-Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+# Contact information
+If you have any questions or need any more information about this project,
+feel free to contact any of the Co-PIs of the project!
 
-  
+Marios S. Pattichis was the lead PI for the project.
+He is a Professor in the Department of Electrical and Computer Engineering at the University of New Mexico.
+He can be reached at [pattichi@unm.edu](mailto:pattichi@unm.edu).
+
+Sylvia Celed&oacute;n-Pattichis was a Co-PI for the project.
+She is a Professor in the Department of Curriculum and Instruction at the University of Texas at Austin.
+She can be reached at [sylvia.celedon@austin.utexas.edu](mailto:sylvia.celedon@austin.utexas.edu).
+
+Carlos L&oacute;pez-Leiva was a Co-PI for the project.
+He is a Professor Language, Literacy, and Sociocultural Studies at the University of New Mexico.
+He can be reached at [callopez@unm.edum](mailto:callopez@unm.edu).
+
+The UNM project website is at [estrella.unm.edu](https://estrella.unm.edu).
+
+# Acknowledgement
+Some of the material is based upon work supported by the [National Science Foundation under Grant No. 1949230](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1949230). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
