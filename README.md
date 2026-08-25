@@ -15,13 +15,9 @@ RACE assignment: The material teaches proportions, distance, rate, and time usin
 
 Day 1
 
-[(download PowerPoint](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pptx), 
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pdf).<br>
 
 Day 2
 
-[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
 
 Day 3
 
@@ -34,7 +30,8 @@ Day 4
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
 
 ## Lesson 1: Computing rates using coding
-* Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pptx), 
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pdf).<br>  
 * How can coding help?
 * Coding team rules.
 * Introduction to variables.
@@ -47,6 +44,8 @@ Day 4
 # Schedule
 ## Lesson 1: Exploring fractions using Python
 The lesson introduces Python programming using variables, strings, linear equations, and fractions:
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
 * [Coding: ???](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_1.ipynb)
 * Introduction to variables
 * Strings
