@@ -45,7 +45,8 @@ It includes a video module that visually demonstrates fraction multiplication.
 ## Lesson 4: Extension
 * Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
-
+* Creating your script: Silent Solo!
+* Fraction video finalization.
 
 ## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
