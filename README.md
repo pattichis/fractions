@@ -12,7 +12,27 @@ More project exemplars are available here (?).
 [Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
 
 RACE assignment: The material teaches proportions, distance, rate, and time using Python.
-  
+
+Day 1
+
+[(download PowerPoint](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pptx), 
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_14%20coding%20day%201-finalized.pdf).<br>
+
+Day 2
+
+[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
+
+Day 3
+
+[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pdf).<br>
+
+Day 4
+
+[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
+
 ## Lesson 1: Computing rates using coding
 * Main classroom lesson [(pdf)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pdf), [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/lessons/Estrella%207th%20Grade%20Day%201-final-product.pptx) 
 * How can coding help?
