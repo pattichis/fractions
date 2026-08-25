@@ -13,23 +13,7 @@ More project exemplars are available here (?).
 
 RACE assignment: The material teaches proportions, distance, rate, and time using Python.
 
-Day 1
 
-
-Day 2
-
-[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
-
-Day 3
-
-[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pptx),
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pdf).<br>
-
-Day 4
-
-[(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
-[(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
 
 
 # Schedule
@@ -45,14 +29,23 @@ The lesson introduces Python programming using variables, strings, linear equati
 * Object-oriented programming using fractions
 * Complex fraction operations
 
-## [Lesson 2: Representing fractions using pictures](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2a.ipynb)
+## Lesson 2: Representing fractions using pictures
 The lesson provides a simple interface for visualizing fractions using pictures.
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
+* [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2a.ipynb)
 
-## [Lesson 3: Video story-telling for understanding operations with fractions](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb)
+## Lesson 3: Video storytelling for understanding operations with fractions
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pdf).<br>
+* [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb)
 
 ## Lesson 4: Extension
+* Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
+[(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
+
 
 ## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
 The above link provides examples of students' videos with voices replaced by AI to protect their identities.
