@@ -45,7 +45,7 @@ It includes a video module that visually demonstrates fraction multiplication.
 * [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb).
 * Different levels for video creation.
 
-## Lesson 4: Extension
+## Lesson 4: Project extension
 * Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pdf).<br>
 * Creating your script: Silent Solo!
