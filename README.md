@@ -1,20 +1,16 @@
 # Division of fractions
 The lessons below address the following standards for fractions: CCSS.Math.Content.6.NS.A.1.
 
-This material supports the division and multiplication of fractions using Python.
-Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of coding in Python, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, the students can access all of the material in their browser without any additional support.
+Our use of Google Colab also provides a dedicated interface for Gemini to answer questions about the code. The interface
+can be used to further explain code fragments and to remove barriers posed by the need to understand Python code.
+
+Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of Python programming, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, students can access all the material in their browser without additional support.
 
 We provide an example video here. Note that the students were given extra time to add voice-over to their videos.
 Our code did not provide support for voice-over. Also, students' voices were replaced with AI-generated voices to protect their identities.
-More project exemplars are available here (?).
-???
+More project exemplars are available in [examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md).
 
 [Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
-
-RACE assignment: The material teaches proportions, distance, rate, and time using Python.
-
-
-
 
 # Schedule
 ## Lesson 1: Exploring fractions using Python
@@ -45,7 +41,8 @@ The lesson demonstrates how to create a video with custom text and images to exp
 It includes a video module that visually demonstrates fraction multiplication.
 * Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pptx),
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_16%20coding%20day%203-finalized.pdf).<br>
-* [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb)
+* [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2b.ipynb).
+* Different levels for video creation.
 
 ## Lesson 4: Extension
 * Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_21%20Coding%20day%204-finalized.pptx),
@@ -58,18 +55,6 @@ The link above provides examples of students' videos with their voices replaced 
 
 # Rubric for projects
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
-
-## ISSUES
-* 
-* RACE LESSONS STANDARDS: CCSS.Math.Content.7.RP.A.2.A,  7.RP.A.2.B,  7.RP.A.2.A.C
-  
-[Upload in teachers pay teachers website](https://www.teacherspayteachers.com/)
-
-Keywords to use for Teachers Pay Teachers:
-
-1) Teaching Division of Fractions with Python
-
-2) Teaching Proportions, Distance, Rate, and Time with Python.
    
 # Contact information
 If you have any questions or need any more information about this project,
