@@ -49,7 +49,7 @@ It includes a video module that visually demonstrates fraction multiplication.
 * Fraction video finalization.
 
 ## [Examples of students' video projects](https://github.com/pattichis/fractions/blob/main/projects.md)
-The above link provides examples of students' videos with voices replaced by AI to protect their identities.
+The link above provides examples of students' videos with their voices replaced by AI to protect their identities.
 
 # Rubric for projects
 [Rubric for fractions](https://github.com/pattichis/fractions/blob/main/6th%20Math_AI%234%20Rubric%20Fractions.pdf)
