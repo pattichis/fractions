@@ -1,10 +1,11 @@
 # Division of fractions
 The lessons below address the following standards for fractions: CCSS.Math.Content.6.NS.A.1.
 
+Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of Python programming, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, students can access all the material in their browser without additional support.
+
 Our use of Google Colab also provides a dedicated interface for Gemini to answer questions about the code. The interface
 can be used to further explain code fragments and to remove barriers posed by the need to understand Python code.
 
-Using Python, students visualize repeating groups of fractions and create a digital video to demonstrate their understanding of fraction division. Students also learn the basics of Python programming, including variables, strings, comments, functions, and object-oriented programming concepts. The classroom needs access to Google Drive to store students' projects. With internet access, students can access all the material in their browser without additional support.
 
 We provide an example video here. Note that the students were given extra time to add voice-over to their videos.
 Our code did not provide support for voice-over. Also, students' voices were replaced with AI-generated voices to protect their identities.
