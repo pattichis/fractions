@@ -34,7 +34,12 @@ The lesson provides a simple interface for visualizing fractions using pictures.
 * Main classroom lesson [(download PowerPoint)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pptx),
 [(pdf)](https://github.com/pattichis/fractions/blob/main/3_15%20coding%20day%202-finalized.pdf).<br>
 * [Coding activity (Google Colab)](https://github.com/pattichis/fractions/blob/main/Fractions_lesson_2a.ipynb)
-
+* Coding and Math goals.
+* Making and downloading videos with fraction objects.
+* Creating a video for multiplication.
+* Video part 2
+* Shout outs!
+  
 ## Lesson 3: Video storytelling for understanding operations with fractions
 The lesson demonstrates how to create a video with custom text and images to explain fraction operations.
 It includes a video module that visually demonstrates fraction multiplication.
